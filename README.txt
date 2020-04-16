@@ -1,0 +1,1 @@
+Dans le projet : BanqueService-0.0.1-SNAPSHOT : configurer la connexion à la base de donnée (nom de base, username et password) dans Hibernate.cfg.xml !
